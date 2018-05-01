@@ -9,7 +9,5 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-.classpath
-.project
 target/
 RemoteSystemsTempFiles/
